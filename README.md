@@ -40,3 +40,8 @@ code: CSGO-vD5hE-Hq9qZ-xpZUy-2FVOV-5PSFE
 EQ profile: crisp
 music: 0 for all
 ```
+
+## nvidia config
+```txt
+digital shine: 100%
+```
