@@ -8,7 +8,7 @@ echo //////////////////////
 echo /// BY lagent_titi ///
 echo //////////////////////
 
-sensitivity "1.10"
+sensitivity "1.15"
 fps_max "144"
 
 cl_showfps 1
@@ -41,7 +41,18 @@ fps: 75 (144 soon)
 
 ## advanced video
 ```txt
-
+Boost player contrast: enabled
+wait for vertical sync: disabled
+multisampling Anti-Aliasing Mode: none
+global shadow quality: high
+model / texture detail: low
+texture filtering mode: trilinear
+shader detail: low
+particule detail: low
+anbiant occlusion: disabled
+high dynamic range: performance
+fidelityFX super resolution: disabled
+NVIDIA REFLEX LOW LATENCY: ENABLED + BOOST
 ```
 
 ## crosshair
@@ -52,4 +63,5 @@ code: CSGO-vD5hE-Hq9qZ-xpZUy-2FVOV-5PSFE
 ## song
 ```txt
 EQ profile: crisp
+music: 0 for all
 ```
