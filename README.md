@@ -1,31 +1,6 @@
 # cs2-config
 
-## autoexec.cfg
-```cfg
-clear
-
-echo //////////////////////
-echo /// BY lagent_titi ///
-echo //////////////////////
-
-sensitivity "1.15"
-fps_max "144"
-
-cl_showfps 1
-
-// JUMPTHROW:
-alias "+boing" "+jump"
-alias "+ding" "-attack; -attack2"
-alias "+dong" "-jump" 
-bind "f" "+boing; +ding; +dong"
-
-// W+JUMPTHROW:
-alias "+runthrow" "+forward;+jump;"
-alias "-runthrow" "-jump;-forward"
-alias "+throwaction" "-attack; -attack2"
-bind "h" "+runthrow;+throwaction"
-
-```
+## [autoexec.cfg](https://github.com/lagentiti/cs2-config/blob/main/autoexec.cfg)
 
 ## mouse
 ```txt
