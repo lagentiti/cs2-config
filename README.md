@@ -26,3 +26,9 @@ alias "+throwaction" "-attack; -attack2"
 bind "h" "+runthrow;+throwaction"
 
 ```
+
+## mouse
+```txt
+DPI: 800
+HZ: 1000
+```
