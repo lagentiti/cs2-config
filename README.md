@@ -45,3 +45,7 @@ music: 0 for all
 ```txt
 digital shine: 100%
 ```
+## lunch option
+```txt
+-noforcemaccel -noforcemspd -novid -nojoy -softparticlesdefaultoff -tickrate 128 -console -dev +fps_max 144 +r_drawparticles 0
+```
