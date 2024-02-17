@@ -32,7 +32,7 @@ NVIDIA REFLEX LOW LATENCY: ENABLED + BOOST
 
 ## crosshair
 ```txt
-code: CSGO-vD5hE-Hq9qZ-xpZUy-2FVOV-5PSFE
+CSGO-vD5hE-Hq9qZ-xpZUy-2FVOV-5PSFE
 ```
 
 ## song
